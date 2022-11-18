@@ -82,6 +82,7 @@ class Mybatisplus01QuickstartApplicationTests {
         System.out.println("一共多少条数据："+ page.getTotal());
         System.out.println("一数据："+ page.getRecords());
         System.out.println("hello git!");
+        System.out.println("hello git2!");
     }
 
 }
